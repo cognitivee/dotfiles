@@ -1,0 +1,8 @@
+* {
+    background:       #111318;
+    background-trans: rgba(17, 19, 24, 0.85);
+    foreground:       #e1e2e9;
+    primary:          #a7c8ff;
+    secondary:        #bdc7dc;
+    urgent:           #ffb4ab;
+}
