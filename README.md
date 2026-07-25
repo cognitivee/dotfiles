@@ -13,7 +13,7 @@ En la nueva instalación de Arch Linux recién instalada desde el USB:
 
 ```bash
 # 1. Clonar este repositorio
-git clone https://github.com/TU_USUARIO/dotfiles.git ~/dotfiles
+git clone https://github.com/cognitivee/dotfiles.git ~/dotfiles
 
 # 2. Ejecutar el script automatizado
 cd ~/dotfiles
